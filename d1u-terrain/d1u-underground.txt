@@ -1,5 +1,5 @@
-# Day 1 (candidate D1U): D4 dug into the ground, natural rock for every wall: the bed plate hides the zombie
-# from two scared villagers 6 below the surface; golems fall from the pad into a pit and burn under one lava source.
+# Iron farm: fits in 6×19×16 · 299 blocks
+# https://vjeux.github.io/redstonepedia/d1u-terrain/d1u-underground.html
 name: iron-day1-underground-6
 afk: 2.5 9 4.5
 circuit: mob-farm iron_ingot
