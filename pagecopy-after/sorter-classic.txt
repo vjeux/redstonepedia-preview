@@ -1,11 +1,5 @@
-# archived 2026-10-20T23:52Z from designs/circuits/tracks/sorter/sorter-classic.txt by mctas circuit archive
-# CIRCUIT: sorter-classic sorter iron_ingot items/s 2.50, first item by 20 gt, hoppers awake 2, slice width 1, badges overflow-proof, bill 15 iron, 1 quartz, 10 redstone, 15 blocks, 1x5x5, robust
-# Item sorter slice, study 13 (designs/circuits/tracks/sorter/WR.md): the line hopper L feeds the
-# filter hopper A (41 iron + 4 named papers: comparator signal 2, 3 with one more iron, 3 when
-# full), which points down into the drain hopper B (64 iron + 4 other named papers: full, so A
-# cannot push into it while it is locked). Three dust (signal minus 2) let only signal 3 reach the
-# repeater, which powers the torch's block; the torch (under the comparator's block, which locks B)
-# turns off and B drops one iron into the chest and takes one from A.
+# Item sorter: takes one item kind out of a mixed line · 15 blocks
+# https://vjeux.github.io/redstonepedia/pagecopy-after/sorter-classic.html
 name: sorter-classic
 circuit: sorter iron_ingot
 tile: 1 0 0
