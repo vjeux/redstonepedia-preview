@@ -30,10 +30,11 @@ palette:
   O minecraft:oak_fence_gate[facing=north,in_wall=false,open=true,powered=false]
   R minecraft:red_bed[facing=north,occupied=false,part=foot]
   S minecraft:stone
-  W minecraft:water[level=0]
+  W minecraft:wall_torch[facing=east]
   o minecraft:oak_pressure_plate[powered=false]
   r minecraft:red_bed[facing=north,occupied=false,part=head]
   s minecraft:stone_button[face=wall,facing=east,powered=false]
+  w minecraft:water[level=0]
 layer -15:
   .
   .
@@ -83,7 +84,7 @@ layer -13:
   .AAAA
   .AAAA
   .AAAA
-  .AAAW
+  .AAAw
   .
 layer -12:
   .
@@ -198,12 +199,12 @@ layer -6:
   .
   .
   .
-  WAAAAW
+  wAAAAw
   AAAAAA
   AAOOAA
   AAOOAA
   AAAAAA
-  WAAAAW
+  wAAAAw
 layer -5:
   .
   .
@@ -329,7 +330,7 @@ layer 2:
   ...oIG
   AAA
   AAA
-  AAA
+  WAA
   AAA
   AAA
   A.A
