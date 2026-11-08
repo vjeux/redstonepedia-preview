@@ -1,4 +1,4 @@
-# Iron farm: fits in 6×19×16 · 299 blocks
+# Iron farm: 252 iron an hour · 299 blocks · 0.84 an hour per block · 8 iron to build · golems burn in a corner of their pit
 # https://vjeux.github.io/redstonepedia/iron-wip-day1-d1u/d1u-underground.html
 name: iron-day1-underground-6
 afk: 2.5 9 4.5
