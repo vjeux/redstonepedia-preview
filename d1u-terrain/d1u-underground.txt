@@ -23,14 +23,17 @@ palette:
   G minecraft:red_bed[facing=west,occupied=false,part=foot]
   H minecraft:hopper[enabled=true,facing=down]
   I minecraft:red_bed[facing=west,occupied=false,part=head]
+  J minecraft:stone_button[face=wall,facing=south,powered=false]
+  K minecraft:stone_slab[type=bottom,waterlogged=false]
   L minecraft:lava[level=0]
+  M minecraft:stone_slab[type=top,waterlogged=false]
   O minecraft:oak_fence_gate[facing=north,in_wall=false,open=true,powered=false]
   R minecraft:red_bed[facing=north,occupied=false,part=foot]
   S minecraft:stone
   W minecraft:water[level=0]
   o minecraft:oak_pressure_plate[powered=false]
   r minecraft:red_bed[facing=north,occupied=false,part=head]
-  s minecraft:stone_slab[type=bottom,waterlogged=false]
+  s minecraft:stone_button[face=wall,facing=east,powered=false]
 layer -15:
   .
   .
@@ -128,8 +131,8 @@ layer -10:
   .
   .
   .
-  .AAAA
-  .AAAA
+  .AJAA
+  .sAAA
   .AAAA
   .AAAA
   .
@@ -288,13 +291,13 @@ layer -1:
   .
 layer 0:
   .
-  ..s
+  ..K
   .
   .
   .
   .
-  .
-  .
+  A.A
+  A.A
   r.r
   R.R
   .
@@ -310,8 +313,8 @@ layer 1:
   AAA
   AAA
   AAA
-  AAA
-  AAA
+  MAM
+  MAM
   B.B
   .
   .
