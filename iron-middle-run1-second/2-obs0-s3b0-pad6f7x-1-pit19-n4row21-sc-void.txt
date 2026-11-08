@@ -1,4 +1,4 @@
-# Iron farm: fits in 71×26×16 · 2,025 blocks
+# Iron farm: 1,500 iron an hour · 2,025 blocks · 0.74 an hour per block · 26 iron to build · golems fall out of sight into a lava pit
 # https://vjeux.github.io/redstonepedia/iron-middle-run1-second/2-obs0-s3b0-pad6f7x-1-pit19-n4row21-sc-void.html
 name: obs0-s3b0-pad6f7x-1-pit19-n4row21-sc-void
 circuit: mob-farm iron_ingot
