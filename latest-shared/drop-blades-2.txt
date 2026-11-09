@@ -1,4 +1,4 @@
-# Iron farm: fits in 35×36×16 · 1,172 blocks
+# Iron farm: 873 iron an hour · 1,172 blocks · 0.75 an hour per block · 31 iron to build · 2 modules in a row share one kill chamber
 # https://vjeux.github.io/redstonepedia/latest-shared/drop-blades-2.html
 name: iron-late-row-shared-2x24
 circuit: mob-farm iron_ingot

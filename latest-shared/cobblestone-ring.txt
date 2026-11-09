@@ -1,4 +1,4 @@
-# Iron farm: fits in 10×29×16 · 392 blocks
+# Iron farm: 428 iron an hour · 392 blocks · 1.1 an hour per block · 16 iron to build · golems fall out of sight to a lava blade
 # https://vjeux.github.io/redstonepedia/latest-shared/cobblestone-ring.html
 name: iron-middle-off-delay-ring-L24-6
 circuit: mob-farm iron_ingot

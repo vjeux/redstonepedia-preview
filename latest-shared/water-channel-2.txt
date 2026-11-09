@@ -1,4 +1,4 @@
-# Iron farm: fits in 37×37×16 · 1,160 blocks
+# Iron farm: 882 iron an hour · 1,160 blocks · 0.76 an hour per block · 31 iron to build · 2 modules in a row send their golems to one kill chamber
 # https://vjeux.github.io/redstonepedia/latest-shared/water-channel-2.html
 name: iron-late-row-channel-2x24
 circuit: mob-farm iron_ingot
