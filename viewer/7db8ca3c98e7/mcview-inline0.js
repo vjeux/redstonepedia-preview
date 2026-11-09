@@ -1,1 +1,0 @@
-export function mcview_mediabunny() { return import(new URL('./mediabunny.min.js', import.meta.url).href); }
